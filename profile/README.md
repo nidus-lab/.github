@@ -1,1 +1,1 @@
-![](images/logo-full-white.png)
+![](/images/logo-full-white.png)
